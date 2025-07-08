@@ -60,7 +60,7 @@ nav li a {
 /* Banner styles */
 .banner{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin: 0 35px 0 23opx
     ;
 }
